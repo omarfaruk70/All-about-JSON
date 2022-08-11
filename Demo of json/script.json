@@ -1,0 +1,18 @@
+{
+    "friends" : [
+        {
+            "name" : "Omar Faruk",
+            "age" : 20,
+            "isStudent" : true,
+            "currentStudy" : "Diploma in Engineering",
+            "passion" : "Programming" 
+        },
+        {
+            "name" : "Saiful Islam Emon",
+            "age" : 21,
+            "isStudent" : true,
+            "passion" : "Web developer",
+            "currentStudy" : "Diploma in Engineering"
+        } 
+    ]
+}
