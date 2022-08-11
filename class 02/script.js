@@ -36,7 +36,3 @@ console.log(friendJSON); // output shown is console.
 // we must use JSON.parse() method to convert a json data to object data.
 let friendNew = JSON.parse(friendJSON);
 console.log(friendNew);
-
-
-
-
