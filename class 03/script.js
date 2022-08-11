@@ -18,4 +18,3 @@ let student = {
 let ans = JSON.stringify(student)
 console.log(ans)
 // JSON will not support undifined , function, date type data .
-03
