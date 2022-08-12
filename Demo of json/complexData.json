@@ -1,0 +1,40 @@
+{
+    "friends" : [
+        {
+            "name" : "Anisul Islam",
+            "middleName" : null,
+            "age" : 31,
+            "cgpa" : 3.44,
+            "isRegistered" : true,
+            "languages" : ["Bangla", "English", "Hindi"],
+            "friends" : [
+                {
+                    "name" : "Anar",
+                    "age" : 25
+                },
+                {
+                    "name" : "Ruhul",
+                    "age" : 28
+                }
+            ]
+        },
+        {
+            "name" : "Rabeya Begum",
+            "middleName" : null,
+            "age" : 30,
+            "cgpa" : 3.92,
+            "isRegistered" : false,
+            "languages" : ["Bangla", "English", "Hindi", "Finish"],
+            "friends" : [
+                {
+                    "name" : "Shakila",
+                    "age" : 24
+                },
+                {
+                    "name" : "Jumur",
+                    "age" : 26
+                }
+            ]
+        }
+    ]
+}
