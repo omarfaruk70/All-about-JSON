@@ -1,0 +1,28 @@
+{
+    "friends" : [
+        {
+            "name" : "rahim",
+            "age" : 28,
+            "hometown" : "dhaka",
+            "married" : true
+        },
+        {
+            "name" : "karim",
+            "age" : 20,
+            "hometown" : "pabna",
+            "married" : false
+        },
+        {
+            "name" : "shakil",
+            "age" : 21,
+            "hometown" : "dhaka",
+            "married" : false
+        },
+        {
+            "name" : "ayon",
+            "age" : 23,
+            "hometown" : "feni",
+            "married" : true
+        } 
+    ]
+}
